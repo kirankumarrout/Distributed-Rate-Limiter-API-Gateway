@@ -7,7 +7,7 @@
 ## 📋 Quick Start
 
 ```bash
-git clone https://github.com/kirankumarrout/rate-limiter.git
+git clone https://github.com/kirankumarrout/Distributed-Rate-Limiter-API-Gateway
 cd rate-limiter
 docker-compose up --build -d
 curl http://localhost:8001/
